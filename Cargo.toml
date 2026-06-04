@@ -1,0 +1,10 @@
+[package]
+name = "ternary-causality"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "Causal inference for ternary strategy systems: CausalDAG, Intervention, CounterfactualEngine, CausalDiscovery, EffectEstimator"
+keywords = ["causal", "inference", "ternary", "dag", "do-calculus"]
+categories = ["science", "algorithms"]
+
+[dependencies]
