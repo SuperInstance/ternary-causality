@@ -131,3 +131,11 @@ Part of the **SuperInstance** ternary computing crate family:
 ## License
 
 MIT
+
+## See Also
+- **ternary-bayesian** — related
+- **ternary-markov** — related
+- **ternary-predict** — related
+- **ternary-inference** — related
+- **ternary-entropy** — related
+
